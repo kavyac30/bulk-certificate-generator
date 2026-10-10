@@ -1,0 +1,10 @@
+{
+  "course_name": "Advanced Python Programming",
+  "issued_by": "Acme Academy",
+  "issue_date": "2026-10-10",
+  "recipients": [
+    {"name": "Asha Verma", "email": "asha@example.com"},
+    {"name": "Ravi Kumar", "email": "ravi@example.com"}
+   
+  ]
+}
